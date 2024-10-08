@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_chenfeng-user
-add_lunch_combo omni_chenfeng-userdebug
-add_lunch_combo omni_chenfeng-eng
+add_lunch_combo twrp_chenfeng-user
+add_lunch_combo twrp_chenfeng-userdebug
+add_lunch_combo twrp_chenfeng-eng
