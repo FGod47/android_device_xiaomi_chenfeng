@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_chenfeng.mk
+    $(LOCAL_DIR)/twrp_chenfeng.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_chenfeng-user \
-    omni_chenfeng-userdebug \
-    omni_chenfeng-eng
+    twrp_chenfeng-user \
+    twrp_chenfeng-userdebug \
+    twrp_chenfeng-eng
